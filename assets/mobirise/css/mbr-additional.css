@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -17,4 +19,58 @@
 }
 #dropdown-menu-0 .navbar-toggler {
   color: #ffffff;
+}
+#header4-1 P {
+  font-size: 46px;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+#footer1-3 P {
+  text-align: center;
+}
+#dropdown-menu-4 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-4 .nav .link,
+#dropdown-menu-4 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-4 .navbar,
+#dropdown-menu-4 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-4 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-4 .dropdown-menu a:hover,
+#dropdown-menu-4 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-4 .navbar-toggler {
+  color: #ffffff;
+}
+#footer1-5 P {
+  text-align: center;
+}
+#dropdown-menu-6 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-6 .nav .link,
+#dropdown-menu-6 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-6 .navbar,
+#dropdown-menu-6 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-6 .dropdown-menu a:hover,
+#dropdown-menu-6 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-6 .navbar-toggler {
+  color: #ffffff;
+}
+#footer1-7 P {
+  text-align: center;
 }
